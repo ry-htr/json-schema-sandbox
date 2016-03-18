@@ -1,0 +1,15 @@
+{
+    "name": "hattori-ryo/json-schema-sandbox",
+    "require": {
+        "justinrainbow/json-schema": "^1.6"
+    },
+    "authors": [
+        {
+            "name": "hattori-ryo",
+            "email": "hattori-ryo@dmm.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^5.2"
+    }
+}

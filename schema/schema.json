@@ -1,0 +1,17 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "id": "http://masu-mi.me/url/of/this/schema.json",
+  "title": "サンプル用スキーマ",
+  "description":"長めの説明",
+  "type": "object",
+  "properties": {
+    "id": {
+      "description": "リソースのID。システム中一貫して用いられる。",
+      "type": "string",
+      "maxLength": 40
+    }
+  },
+  "required": [
+    "id"
+  ]
+}
